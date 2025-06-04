@@ -31,3 +31,7 @@ C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\obj\Debu
 C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.genruntimeconfig.cache
 C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\ref\RestaurantMenu.dll
 C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.Properties.Resources.resources
+C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\obj\Debug\net8.0-windows\RestaurantMenu.sourcelink.json
+C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\Model.deps.json
+C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\Model.runtimeconfig.json
+C:\Users\roldu\source\repos\SecondVersion\RestaurantMenu\RestaurantMenu\bin\Debug\net8.0-windows\Model.exe

@@ -63,8 +63,8 @@
     },
     "Model/1.0.0": {
       "type": "project",
-      "path": "../../../../../Music/lab10/Model/Model.csproj",
-      "msbuildProject": "../../../../../Music/lab10/Model/Model.csproj"
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -104,8 +104,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\roldu\\Music\\lab10\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\roldu\\Music\\lab10\\Model\\Model.csproj"
+            "C:\\Users\\roldu\\source\\repos\\SecondVersion\\RestaurantMenu\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\roldu\\source\\repos\\SecondVersion\\RestaurantMenu\\Model\\Model.csproj"
             }
           }
         }
