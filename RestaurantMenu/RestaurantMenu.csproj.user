@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DishForms\DesertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DishForms\DrinksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DishForms\HotMealForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DishForms\SaladForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DishForms\SoupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestarauntForms\CreateCafeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestarauntForms\CreateCoffeeHouseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestarauntForms\CreateRestaurantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RestarauntForms\SelectRestaurantTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
